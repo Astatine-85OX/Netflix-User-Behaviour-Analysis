@@ -1,2 +1,11 @@
-# Netflix-User-Behaviour-Analysis
-Netflix User Behaviour Analysis using Python
+# Netflix User Behaviour Analysis
+
+## Overview
+Analysis of Netflix user behaviour using Python.
+
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
